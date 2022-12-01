@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sharmi avila</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmiavilav" alt="sharmiavilav" /></a> </p>
 
-- 🔭 I’m currently working on [Student Management system](https://github.com/renjithsamuel/Smart_India_Hackathon.git)
+- 🔭 I’m currently working on Problem Solving.
 
 - 🌱 I’m currently learning **c, reactjs**
+
+- 🌐 My website  [Sharmi Avila](https://sharmiavila-portfolio.web.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SHARMIAVILAV](https://github.com/SHARMIAVILAV)
 
 - 📫 How to reach me **sharmiavila.cs20@gmail.com**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
