@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Problem Solving.
 
-- 🌱 I’m currently learning **c++, ML**
+- 🌱 I’m currently learning **c++, OpenCV**
 
 - 🌐 My website  [Sharmi Avila](https://sharmiavila-portfolio.web.app/)
 
